@@ -14,7 +14,7 @@ This project implements a complete **Retrieval-Augmented Generation (RAG)** pipe
 
 Unlike typical RAG systems that rely on LangChain or LlamaIndex, this project uses only low-level libraries like **PyTorch**, **Transformers**, and **FAISS**, showcasing the core mechanics and allowing maximum control over the architecture.
 
-You can explore the full development workflow in the provided notebook: `YourNotebookName.ipynb`.
+You can explore the full development workflow in the provided notebook: `nlp-rag-pipeline.ipynb`.
 
 The notebook contains all cell codes, from processing the CSV, each article is broken down into smaller, overlapping text chunks, then embedder model is loaded, where each chunk is converted into 'embedding' and stored in FAISS index. Then comes the Cross-Encoder model for Re-ranking, to pass the best context to the LLM. And lastly, the top 3 - 5 ranked chunks are taken and fed into the LLM for output generation. 
 
