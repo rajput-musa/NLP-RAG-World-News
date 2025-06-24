@@ -1,5 +1,8 @@
 # 📰 NLP RAG on 30,000 World News Articles
 
+
+ [Link to Kaggle notebook](https://www.kaggle.com/code/musarajput/nlp-rag-pipeline/) You can play around and tweak if you want.
+
 **🔗 Live Demo:** [Ask the News - Hugging Face Space](https://huggingface.co/spaces/MusaR/NLP-RAG-world-news)  
 *⚠️ Note: The demo uses a free CPU tier and TinyLlama so answers quality is tanked, and response may take 10 - 15 min.*
 
