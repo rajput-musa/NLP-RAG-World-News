@@ -1,6 +1,13 @@
 # 📰 NLP RAG on 30,000 World News Articles
 
 
+![pGKcwiKhEc](https://github.com/user-attachments/assets/3fb4cb2d-24e1-456f-b4cf-226668b091a3)
+
+
+![vbP3U5D0KQ](https://github.com/user-attachments/assets/36ab2fba-d845-48bc-a9cb-fb5c1ac438af)
+
+
+
  [Link to Kaggle notebook](https://www.kaggle.com/code/musarajput/nlp-rag-pipeline/) You can play around and tweak if you want.
 
 **🔗 Live Demo:** [Ask the News - Hugging Face Space](https://huggingface.co/spaces/MusaR/NLP-RAG-world-news)  
