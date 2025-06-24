@@ -1,10 +1,10 @@
 # 📰 NLP RAG on 30,000 World News Articles
 
 
-![pGKcwiKhEc](https://github.com/user-attachments/assets/3fb4cb2d-24e1-456f-b4cf-226668b091a3)
+![image](https://github.com/user-attachments/assets/7fd07b59-6141-4c06-a21b-d7d33aeff397)
 
 
-![vbP3U5D0KQ](https://github.com/user-attachments/assets/36ab2fba-d845-48bc-a9cb-fb5c1ac438af)
+![image](https://github.com/user-attachments/assets/82736cfe-e4b9-490b-a762-87823e90a430)
 
 
 
